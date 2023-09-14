@@ -1,6 +1,6 @@
 ## Eae! Bem vindo(a)
 
-<p> Olá, Sou Pedro Franco, atualmente estudo para me tornar Desenvolvedor ! </p>
+
 
  <div>
    <a href="https://github.com/ThePredu">
