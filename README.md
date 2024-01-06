@@ -21,6 +21,7 @@
 <div> 
   <a href="https://www.instagram.com/thepredu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrotheorigin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/pedro-da-silva-franco-39187a253/><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank><a/>
   
 
   
